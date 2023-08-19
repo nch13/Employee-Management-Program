@@ -1,0 +1,10 @@
+﻿[
+    {
+        "Mã bộ phận": "SALE001",
+        "Thưởng bộ phận": "500,000 (VND)"
+    },
+    {
+        "Mã bộ phận": "SALE002",
+        "Thưởng bộ phận": "100,000 (VND)"
+    }
+]

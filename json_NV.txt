@@ -1,0 +1,35 @@
+﻿[
+    {
+        "Mã số": "NV002",
+        "Mã bộ phận": "SALE002",
+        "Chức vụ": "NV",
+        "Họ và tên": "Trần Văn C",
+        "Hệ số lương": "300,000 (VND)",
+        "Số ngày làm việc": 25,
+        "Hệ số hiệu quả": 0.8,
+        "Thưởng": "0 (VND)",
+        "Số ngày đi muộn": 0
+    },
+    {
+        "Mã số": "NV003",
+        "Mã bộ phận": "SALE002",
+        "Chức vụ": "NV",
+        "Họ và tên": "Nguyễn Văn C",
+        "Hệ số lương": "300,000 (VND)",
+        "Số ngày làm việc": 26,
+        "Hệ số hiệu quả": 1.0,
+        "Thưởng": "300,000 (VND)",
+        "Số ngày đi muộn": 1
+    },
+    {
+        "Mã số": "NV001",
+        "Mã bộ phận": "SALE001",
+        "Chức vụ": "NV",
+        "Họ và tên": "Ngguyễn CChí Hiéu",
+        "Hệ số lương": "500,000 (VND)",
+        "Số ngày làm việc": 26,
+        "Hệ số hiệu quả": 1.0,
+        "Thưởng": "300,000 (VND)",
+        "Số ngày đi muộn": 2
+    }
+]
